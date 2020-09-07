@@ -1,1 +1,3 @@
 hola esta es solo una prueba
+
+ahora utilizaremos el comando git rm --force
