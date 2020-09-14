@@ -3,3 +3,5 @@ hola esta es solo una prueba
 ahora utilizaremos el comando git rm --force
 
 solo sera un recordatorio
+
+nuevo up-date de la rama nuevo.
